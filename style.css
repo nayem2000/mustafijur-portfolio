@@ -12,7 +12,7 @@ p{
     color: dimgray;
 }
 
-.name-highlight{
+.orange-highlight{
     color:orange;
 }
 .half-width{
@@ -44,4 +44,19 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.single-experience{
+    background-color: white;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+}
+.experience-section{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 7px solid;
 }
